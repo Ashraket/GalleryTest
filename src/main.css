@@ -1,0 +1,48 @@
+.body{
+    background-image:url( "https://png.pngtree.com/background/20220714/original/pngtree-cute-pastel-background-aesthetic-picture-image_1603835.jpg");
+    background-size: 100% 100%;
+}
+div{
+    text-align: center;
+
+}
+input{
+    border-radius:5px;
+    border-color: aqua;
+    width: 100px;
+    height: 40px;
+    font-weight:bolder;
+    background-color: aliceblue;
+    color: rgb(0, 77, 77);
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    
+
+}
+h1{
+    color: rgb(8, 99, 99);
+    background-color: rgb(255, 255, 255);
+    text-decoration: underline;
+    text-align: center;
+    font-weight: bolder;
+}
+h2{
+    color: rgb(8, 99, 99);
+    text-decoration: underline;
+
+}
+.text{
+    background-color: white;
+    width: 100px;
+    height: 20px;
+    
+
+}
+img{
+    width: 500px;
+    height: 300px;
+    text-align: center;
+    border-radius: 5px;
+    border-color: black;
+}
